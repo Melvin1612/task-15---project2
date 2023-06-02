@@ -1,0 +1,23 @@
+.operator{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
+    background-color: rgb(247, 9, 21);
+}
+.number{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
+     background-color: rgb(218, 223, 78);
+}
+.keypad{
+    width: 270px;
+    padding: 40px;
+    margin: auto;
+    background-color:rgb(37, 34, 34);
+}
+.history{
+    background-color:rgb(241, 212, 139);
+}
